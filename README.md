@@ -53,8 +53,5 @@ Tap-to-Earn games, such as **Hamster Kombat**, provide players with an exciting 
 
 Ready to launch your own T2E game? Download the Hamster Kombat Clone Script and start building your game today!
 
-- [![Website](https://img.shields.io/badge/Website-cryptoclonescript.com-orange)](https://www.cryptoclonescript.com)
-- [![Telegram](https://img.shields.io/badge/Telegram-%40cryptoclonescript-blue)](https://t.me/cryptoclonescript)
-- [![Skype](https://img.shields.io/badge/Skype-%40cryptoclonescript-green)](https://join.skype.com/invite/vhkiSG0tVgQj)
 
 ---
